@@ -1,8 +1,25 @@
-# React + Vite
+# Simple Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get started with building a calculator app using React and Vite. It includes Hot Module Replacement (HMR) for fast development iteration and some ESLint rules for code consistency.
 
-Currently, two official plugins are available:
+## Getting Started
+## Clone the Repository
+## You can clone this repository to your local machine using the following command inside command prompt:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/your-username/react-vite-calculator.git
+
+## Installation
+## Navigate to the project directory and install the dependencies using npm
+
+cd react-vite-calculator
+npm install
+
+## Development
+## To start the development server and run the app:
+
+npm run dev
+
+## To build the app run the following command:
+
+npm run build
+
